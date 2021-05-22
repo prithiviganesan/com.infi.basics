@@ -15,6 +15,11 @@ System.out.println("this add method");
     System.out.println("this is mul method");
   }
   
+  public void div()
+  {
+    System.out.println("this div method");
+  }
+  
   public static void main(String[] args)
   {
   }
